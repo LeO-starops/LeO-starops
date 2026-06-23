@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# Hi, I'm Al Amaan Nizamudeen 👋
+## Hi, I'm Al Amaan Nizamudeen 👋
 
 Graduate Computer Science Engineer specializing in **Offensive Security, Penetration Testing, and Vulnerability Assessment**. Focused on identifying system vulnerabilities, analyzing network layouts, and processing technical security data.
 
