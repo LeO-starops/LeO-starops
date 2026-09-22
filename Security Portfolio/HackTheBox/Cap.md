@@ -1,4 +1,4 @@
-# Hack The Box - Cap Walkthrough
+# Hack The Box - Cap Report
 
 **Target:** Cap  
 **OS:** Linux  
