@@ -12,10 +12,6 @@
 </defs>
 <g clip-path="url(#round)">
 <rect width="1200" height="420" fill="#000c06" />
-
-<!-- Background Silhouette Graphic -->
-
-<animate attributeName="opacity" values="0.92;1;0.88;1;0.95" dur="4s" repeatCount="indefinite" />
 <rect width="1200" height="420" fill="url(#fade)" />
 
 <!-- Matrix Code Rain (Distributed Full-Width Across 1200px) -->
