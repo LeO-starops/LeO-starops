@@ -1,10 +1,9 @@
 <div align="center">
 
 <!-- ANIMATED MATRIX BANNER -->
-<img src="https://raw.githubusercontent.com/LeO-starops/LeO-starops/main/assets/banner.svg" alt="Al Amaan Nizamudeen Banner" width="100%" />
+<img src="./assets/banner.svg" alt="Al Amaan Nizamudeen Banner" width="100%" />
 
-<br/><br/>
-
+</div>
 <!-- DYNAMIC TYPING SVG -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00FF66&center=true&vCenter=true&width=600&lines=Offensive+%26+Defensive+Security;Web+App+VAPT+%2B+Reconnaissance;Threat+Monitoring+%26+Detection;Security+Automation+%26+Scripting" alt="Typing SVG" />
