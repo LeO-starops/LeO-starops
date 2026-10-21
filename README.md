@@ -1,17 +1,17 @@
 <div align="center">
 
 <!-- ANIMATED MATRIX BANNER -->
-<img src="./assets/banner.svg" alt="Al Amaan Nizamudeen Banner" width="100%" />
+<img src="./Assets/banner.svg" alt="Al Amaan Nizamudeen Banner" width="100%" />
 
 <br/><br/>
 
 <!-- TERMINAL OVERVIEW CARD -->
-<img src="./assets/terminal.svg" alt="Terminal Overview" width="100%" />
+<img src="./Assets/terminal.svg" alt="Terminal Overview" width="100%" />
 
 <br/><br/>
 
 <!-- TECH STACK BADGES -->
-<img src="./assets/skills.svg" alt="Core Skills" width="100%" />
+<img src="./Assets/skills.svg" alt="Core Skills" width="100%" />
 
 <br/><br/>
 
