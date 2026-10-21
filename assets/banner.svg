@@ -2,7 +2,7 @@
   <defs>
     <linearGradient id="fade" x1="0" x2="1">
       <stop offset="0" stop-color="#000c06" />
-      <stop offset="0.4" stop-color="#000c06" stop-opacity="0.92" />
+      <stop offset="0.4" stop-color="#000c06" stop-opacity="0.95" />
       <stop offset="0.75" stop-color="#000c06" stop-opacity="0.2" />
     </linearGradient>
 
@@ -32,7 +32,6 @@
       .matrix-text { font-family: 'Courier New', Consolas, monospace; font-size: 14px; }
       .term-text { font-family: 'Courier New', Consolas, monospace; }
       
-      /* Rain Falling Animations */
       @keyframes fall1 { 0% { transform: translateY(-120px); } 100% { transform: translateY(440px); } }
       @keyframes fall2 { 0% { transform: translateY(-180px); } 100% { transform: translateY(440px); } }
       @keyframes fall3 { 0% { transform: translateY(-150px); } 100% { transform: translateY(440px); } }
@@ -41,7 +40,6 @@
       .r2 { animation: fall2 10s linear infinite; }
       .r3 { animation: fall3 6.5s linear infinite; }
 
-      /* Glitch animation */
       @keyframes glitch {
         0%, 100% { transform: translate(0,0); }
         2% { transform: translate(-3px, 1px); }
@@ -50,18 +48,15 @@
       }
       .glitch-title { animation: glitch 3.5s infinite; }
 
-      /* Cursor blink */
       @keyframes blink { 0%, 100% { opacity: 1; } 50% { opacity: 0; } }
       .cursor { animation: blink 1s infinite; }
     </style>
   </defs>
 
   <g clip-path="url(#round)">
-    <!-- Dark Background -->
     <rect width="1200" height="420" fill="#000c06" />
     <rect width="1200" height="420" fill="url(#fade)" />
 
-    <!-- Matrix Code Rain (Pure CSS Animated Streams across full width) -->
     <g opacity="0.6">
       <g transform="translate(20,0)" class="r1"><text y="0" class="matrix-text" fill="#00FF66" opacity="0.3">0</text><text y="18" class="matrix-text" fill="#00FF66" opacity="0.6">1</text><text y="36" class="matrix-text" fill="#ffffff" opacity="0.9">サ</text></g>
       <g transform="translate(80,0)" class="r2"><text y="0" class="matrix-text" fill="#00FF66" opacity="0.3">{</text><text y="18" class="matrix-text" fill="#00FF66" opacity="0.6">E</text><text y="36" class="matrix-text" fill="#ffffff" opacity="0.9">%</text></g>
@@ -85,35 +80,21 @@
       <g transform="translate(1160,0)" class="r2"><text y="0" class="matrix-text" fill="#00FF66" opacity="0.3">Z</text><text y="18" class="matrix-text" fill="#00FF66" opacity="0.6">7</text><text y="36" class="matrix-text" fill="#ffffff" opacity="0.9">X</text></g>
     </g>
 
-    <!-- Scanline overlay -->
     <rect width="1200" height="420" fill="url(#scan)" />
-
-    <!-- Terminal Command Line -->
     <text x="60" y="78" font-size="16" fill="#00FF66" class="term-text">amaan@kali:~# ./ethical_hacker --start</text>
 
-    <!-- Header Title with Glitch -->
     <g font-size="62" font-weight="900" class="term-text" letter-spacing="1">
       <text x="58" y="165" fill="#00FF66" opacity="0.6" class="glitch-title">AL AMAAN NIZAMUDEEN</text>
       <text x="62" y="165" fill="#004d1a" opacity="0.8" class="glitch-title">AL AMAAN NIZAMUDEEN</text>
       <text x="60" y="165" fill="#ffffff" filter="url(#glow)">AL AMAAN NIZAMUDEEN</text>
     </g>
 
-    <!-- Accent Line -->
     <rect x="60" y="192" width="520" height="3" fill="url(#edge)" />
-
-    <!-- Subtitle -->
     <text x="60" y="226" font-size="17" fill="#7affb8" letter-spacing="2" class="term-text">VAPT  //  SOC ANALYST  //  RED + BLUE TEAM</text>
-
-    <!-- Dynamic Specs -->
     <text x="60" y="274" font-size="20" fill="#e3ffef" class="term-text">> Junior Security Analyst  |  Web App VAPT & Threat Detection</text>
-
-    <!-- Footer Certifications -->
     <text x="60" y="325" font-size="14" fill="#4d996e" class="term-text">[ Cisco Intro to Cybersecurity ]  [ OCSP Ongoing ]  [ Web & Network Recon ]</text>
-
-    <!-- Blinking Cursor -->
     <rect x="60" y="348" width="10" height="18" fill="#00FF66" class="cursor" />
   </g>
 
-  <!-- Outer Border -->
   <rect x="1" y="1" width="1198" height="418" rx="14" fill="none" stroke="#00FF66" stroke-width="2" />
 </svg>
