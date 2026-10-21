@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ANIMATED MATRIX BANNER -->
-<img src="./Assets/banner.svg" alt="Al Amaan Nizamudeen Banner" width="100%" />
+<img src="https://raw.githubusercontent.com/LeO-starops/LeO-starops/main/assets/banner.svg" alt="Al Amaan Nizamudeen Banner" width="100%" />
 
 <br/><br/>
 
