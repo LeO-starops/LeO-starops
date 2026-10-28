@@ -1,44 +1,35 @@
-<div align="center">
+## Hi, I'm Al Amaan Nizamudeen 👋
 
-<!-- ANIMATED MATRIX BANNER -->
-<img src="./assets/banner.svg" alt="Al Amaan Nizamudeen Banner" width="100%" />
-
-</div>
-<!-- DYNAMIC TYPING SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00FF66&center=true&vCenter=true&width=600&lines=Offensive+%26+Defensive+Security;Web+App+VAPT+%2B+Reconnaissance;Threat+Monitoring+%26+Detection;Security+Automation+%26+Scripting" alt="Typing SVG" />
-</a>
-
-<br/><br/>
-
-<!-- TECH STACK BADGES -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Kali%20Linux-002B11?style=for-the-badge&logo=kalilinux&logoColor=00FF66" />
-  <img src="https://img.shields.io/badge/Burp%20Suite-002B11?style=for-the-badge&logo=burpsuite&logoColor=00FF66" />
-  <img src="https://img.shields.io/badge/OWASP%20ZAP-002B11?style=for-the-badge&logo=owasp&logoColor=00FF66" />
-  <img src="https://img.shields.io/badge/Python-002B11?style=for-the-badge&logo=python&logoColor=00FF66" />
-  <img src="https://img.shields.io/badge/Linux-002B11?style=for-the-badge&logo=linux&logoColor=00FF66" />
-  <img src="https://img.shields.io/badge/Bash-002B11?style=for-the-badge&logo=gnu-bash&logoColor=00FF66" />
-</p>
-
-</div>
+Graduate Computer Science Engineer specializing in **Offensive Security, Penetration Testing, and Vulnerability Assessment**. Focused on identifying system vulnerabilities, analyzing network layouts, and processing technical security data.
 
 ---
 
-### Terminal Overview
+## 🛠️ Technical Toolkit
 
-```bash
-$ whoami
-amaan-nizamudeen # Junior Security Analyst | VAPT & Threat Detection
+- **Offensive Security & Pentesting:** Nmap, Vulnerability Identification, Port Scanning, Target Reconnaissance
+- **Networking & Protocols:** TCP/IP, DNS, HTTP/HTTPS, Packet Analysis (Wireshark)
+- **Programming & Data Processing:** Python (Data Preprocessing, Custom Parsing, Data Cleaning), Bash
+- **Systems & Environments:** Linux, Windows, Virtual Machines (VMware/VirtualBox)
 
-$ cat about.txt
-Cybersecurity practitioner. I attack to learn, then detect what I broke.
+---
 
-$ ls ./focus
-web-app-pentest/  network-pentest/  siem-monitoring/  incident-response/
+---
 
-$ nmap --status ocsp
-Offenso Certified Security Professional ........ [ ONGOING ]
+## 🌐 Connect with Me
 
-$ ./current_lab.sh
-Executing automated URL recon workflows & threat log analysis...
+- **LinkedIn:** [linkedin.com/in/alamaan107](https://linkedin.com/in/alamaan)
+- **Email:** amaanvpp434@gmail.com
+<!--
+**LeO-starops/LeO-starops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
