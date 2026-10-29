@@ -151,7 +151,7 @@ I'm **Al Amaan Nizamudeen**, a Computer Science Engineering graduate from Kollam
 <table width="100%" border="0" cellspacing="0" cellpadding="6">
   <tr>
     <td width="12%" align="center"><b>🛡️</b></td>
-    <td><b>OCSP</b> — Offenso Certified Security Professional (Offenso Hackers Academy) · <i>in progress</i></td>
+    <td><b>OCSP</b> — Offenso Certified Security Professional (Offenso Hackers Academy)</td>
   </tr>
   <tr>
     <td align="center"><b>🌐</b></td>
