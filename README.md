@@ -8,25 +8,25 @@
 <br>
 
 <!-- ═══════════ about_me.md ═══════════ -->
-<h3><code>> about_me.md</code></h3>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=1500&pause=100000&color=00FF66&background=000C06&vCenter=true&width=435&height=35&lines=%3E+about_me.md" alt="about_me.md" />
 
 I'm **Al Amaan Nizamudeen**, a Computer Science Engineering graduate from Kollam, Kerala, focused on **defensive security, network monitoring, and web application testing**. I combine hands-on VAPT labs with SOC-style log analysis and detection work — I learn how attacks are built, then study how to detect and remediate them.
 
 - 🔴 **Red side:** Web App VAPT (OWASP Top 10), Burp Suite testing (Repeater/Intruder), Nmap recon, Metasploit validation, SQLi/XSS PoC reporting
 - 🔵 **Blue side:** Wireshark packet analysis, Splunk basics, AD DS access control, Python log parsing, incident documentation, CVSS v3.1 scoring
-- 🎯 **Currently:** Offenso Certified Security Professional (OCSP) trainee
+- 🎯 **Currently:** Offenso Certified Security Professional (OCSP) **Certified** 
 - 🛠️ **Practising on:** TryHackMe, Hack The Box, LetsDefend, Splunk Attack Simulation, PicoCTF
 
 <br>
 
 <!-- ═══════════ ./stats --lab ═══════════ -->
-<h3><code>> ./stats --lab</code></h3>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=1500&pause=100000&color=00FF66&background=000C06&vCenter=true&width=435&height=35&lines=%3E+.%2Fstats+--lab" alt="./stats --lab" />
 
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td align="center" width="33%">
       <h2>OCSP</h2>
-      <p><code>CERTIFICATION IN PROGRESS</code></p>
+      <p><code>CERTIFIED</code></p>
     </td>
     <td align="center" width="33%">
       <h2>3</h2>
@@ -42,7 +42,7 @@ I'm **Al Amaan Nizamudeen**, a Computer Science Engineering graduate from Kollam
 <br>
 
 <!-- ═══════════ ls ~/arsenal ═══════════ -->
-<h3><code>> ls ~/arsenal</code></h3>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=1500&pause=100000&color=00FF66&background=000C06&vCenter=true&width=435&height=35&lines=%3E+ls+~%2Farsenal" alt="ls ~/arsenal" />
 
 **<span style="color:#00FF66;">OFFENSIVE // VAPT</span>**
 <p>
@@ -106,7 +106,7 @@ I'm **Al Amaan Nizamudeen**, a Computer Science Engineering graduate from Kollam
 <br>
 
 <!-- ═══════════ ~/projects/* ═══════════ -->
-<h3><code>> ~/projects/*</code></h3>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=1500&pause=100000&color=00FF66&background=000C06&vCenter=true&width=435&height=35&lines=%3E+~%2Fprojects%2F*" alt="~/projects/*" />
 
 **🛡️ Network Defense & Traffic Inspection Lab (Wireshark & Nmap)**
 - Captured live packets in Wireshark to inspect TCP/IP, DNS, and HTTP traffic for cleartext credentials or protocol anomalies.
@@ -131,7 +131,7 @@ I'm **Al Amaan Nizamudeen**, a Computer Science Engineering graduate from Kollam
 <br>
 
 <!-- ═══════════ work_experience.log ═══════════ -->
-<h3><code>> work_experience.log</code></h3>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=1500&pause=100000&color=00FF66&background=000C06&vCenter=true&width=435&height=35&lines=%3E+work_experience.log" alt="work_experience.log" />
 
 **Offenso Hackers Academy — Cybersecurity Trainee** · `05/2026 – 10/2026`
 - Hands-on training across web-app VAPT (OWASP Top 10), Wireshark packet analysis, Nmap scanning, and Active Directory security.
@@ -146,12 +146,12 @@ I'm **Al Amaan Nizamudeen**, a Computer Science Engineering graduate from Kollam
 <br>
 
 <!-- ═══════════ certifications.txt ═══════════ -->
-<h3><code>> certifications.txt</code></h3>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=1500&pause=100000&color=00FF66&background=000C06&vCenter=true&width=435&height=35&lines=%3E+certifications.txt" alt="certifications.txt" />
 
 <table width="100%" border="0" cellspacing="0" cellpadding="6">
   <tr>
     <td width="12%" align="center"><b>🛡️</b></td>
-    <td><b>OCSP</b> — Offenso Certified Security Professional (Offenso Hackers Academy)</td>
+    <td><b>OCSP</b> — Offenso Certified Security Professional (Offenso Hackers Academy) · <b>Certified</b></td>
   </tr>
   <tr>
     <td align="center"><b>🌐</b></td>
@@ -162,7 +162,7 @@ I'm **Al Amaan Nizamudeen**, a Computer Science Engineering graduate from Kollam
 <br>
 
 <!-- ═══════════ education.txt ═══════════ -->
-<h3><code>> education.txt</code></h3>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=1500&pause=100000&color=00FF66&background=000C06&vCenter=true&width=435&height=35&lines=%3E+education.txt" alt="education.txt" />
 
 **B.Tech — Computer Science & Engineering** · `2022 – 2026`  
 UKF College of Engineering and Technology · CGPA: **7.32**
@@ -173,7 +173,7 @@ SCOLE Kerala
 <br>
 
 <!-- ═══════════ ./contact --secure ═══════════ -->
-<h3><code>> ./contact --secure</code></h3>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=1500&pause=100000&color=00FF66&background=000C06&vCenter=true&width=435&height=35&lines=%3E+.%2Fcontact+--secure" alt="./contact --secure" />
 
 <div align="center">
   <a href="https://github.com/LeO-starops" target="_blank">
